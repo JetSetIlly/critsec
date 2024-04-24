@@ -1,0 +1,5 @@
+Session.vim
+*.swp
+go.work
+go.work.sum
+analysis/cmd/critcheck/critcheck
